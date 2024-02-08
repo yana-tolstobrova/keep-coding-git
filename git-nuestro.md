@@ -1,10 +1,10 @@
-*Git* ours who art in the repos
-Compressed be thy *commits*
-Thy *log* come to us
-In the local as in the *remote*
-Give us today our *pull* of each day
-Forgive us our *conflicts*
-As we also forgive those of other geeks
-Do not let us fall into *detached HEAD*
-and deliver us from *SVN*
-`git commit --amend`
+*GIT* nuestro que estás en los repos
+Comprimidos sean tus *commits*
+Venga a nosotros tu *log*
+En el local como en el *remote*
+Danos hoy nuestro *pull* de cada día
+Perdona nuestros *conflictos*
+Como también perdonamos los de otros geeks
+No nos dejes caer en *detached HEAD*
+y líbranos de *SVN*
+`GIT commit --amend`
